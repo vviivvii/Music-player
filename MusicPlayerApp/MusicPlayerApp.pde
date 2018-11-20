@@ -6,8 +6,8 @@ void setup () {
   //println("Start of Console");
   //printArray(fontList); //For listing all possible fonts to choose, then createFont
   titleFont = createFont ("Javanese Text", 48);//Must also tools/ Create Font/ Find Font
-
   
+   musicPlayerGUI_Setup();
 }
 
 void draw() {
@@ -16,4 +16,5 @@ void draw() {
 
 void mouseClicked() {
   quitButtonMouseClicked();
+  musicPlayerButton();
 }
