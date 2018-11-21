@@ -8,10 +8,12 @@ void setup () {
   titleFont = createFont ("Javanese Text", 48);//Must also tools/ Create Font/ Find Font
   
    musicPlayerGUI_Setup();
+   Music_Visualzersetup();
 }
 
 void draw() {
   quitButtonDraw ();
+  Music_Viaulzerdraw();
 }
 
 void mouseClicked() {

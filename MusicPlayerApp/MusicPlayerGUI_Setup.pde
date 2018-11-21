@@ -1,5 +1,5 @@
 void musicPlayerGUI_Setup() {
-  rect(123,102,276,389,10); // Rectangle with rounded courers
+  //rect(123,102,276,389,10); // Rectangle with rounded courers
   
   
   //Main Button Area
