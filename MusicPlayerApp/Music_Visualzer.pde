@@ -1,3 +1,4 @@
+/*
 import ddf.minim.*;
 import ddf.minim.analysis.*;
  
@@ -60,3 +61,4 @@ void Music_Viaulzerdraw()
 }
 
 //http://code.compartmental.net/tools/minim/quickstart/
+*/
