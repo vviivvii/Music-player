@@ -1,5 +1,5 @@
 void musicPlayerGUI_Setup() {
-  rect(123,102,276,389,10); // Rectangle with rounded courers
+  rect(width*4/16,height*2/14,width*8/16,width*10/14,10); // Rectangle with rounded courers  fix
   
   
   //Main Button Area
@@ -8,7 +8,7 @@ void musicPlayerGUI_Setup() {
   */
   
   //Play and Pause Button
-  rect(width*6/14,height*4/8,width*4/8,width*1/8,15);// Fix
+  rect(width*6/14,height*4/8,width*1/8,width*1/8,15);// Fix
   //triangle(); //Play
   //line() //Pause 1
   //line() //Pause 2
