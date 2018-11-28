@@ -15,7 +15,7 @@ void Music_Visualzersetup()
  
   // specify 512 for the length of the sample buffers
   // the default buffer size is 1024
-  song = minim.loadFile("Kenai - Nobody Knows.mp3", 512);
+  song = minim.loadFile("5PM - Animal Crossing New Leaf Music.mp3", 512);
   song.play();
  
   // an FFT needs to know how 
